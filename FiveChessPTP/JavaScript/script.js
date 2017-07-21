@@ -25,7 +25,7 @@ var NewGameBegin = function() {
 
     //添加水印
     var image = new Image();    
-    image.src = "Images/gg.gif"; //水印路径
+    image.src = "Images/godo.jpg"; //水印路径
     //加载图片过程
     image.onload = function() {
         context.drawImage(image , 0, 0, 450, 450);      
