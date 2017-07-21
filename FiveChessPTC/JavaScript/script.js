@@ -34,7 +34,7 @@ var NewGameBegin = function() {
     
     //添加水印
     var image = new Image(); //利用图片重覆盖，进行游戏的重新开始   
-    image.src = "Images/logo2.jpg"; //水印路径
+    image.src = "Images/logo2.JPG"; //水印路径
     //加载图片过程
     image.onload = function() {
         context.drawImage(image , 0, 0, 450, 450);      
