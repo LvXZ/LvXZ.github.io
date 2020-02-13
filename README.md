@@ -10,7 +10,7 @@
 
 #### 请求示例
 ```URL
-    https://lvxz.github.io/02/index.html
+    https://lvxz.github.io/ClickLove.html
 ```
 
 
